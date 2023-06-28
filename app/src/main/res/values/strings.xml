@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">reddit</string>
+    <string name="new_">new</string>
+    <string name="popular">popular</string>
+    <string name="search">search\n</string>
+    <string name="subscribers">subs</string>
+    <string name="description">description</string>
+</resources>

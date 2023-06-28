@@ -1,0 +1,3 @@
+package com.example.reddit.model.data_classes.about_sr
+
+class CommentContributionSettings
